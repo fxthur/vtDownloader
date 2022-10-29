@@ -20,7 +20,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/abcdefathur/TiktokDownloader
+   git clone https://github.com/abcdefathur/vtDownloader
    ```
 2. Install NPM packages
    ```sh
