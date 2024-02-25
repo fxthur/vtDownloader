@@ -1,6 +1,6 @@
 {
   "name": "tiktok-downloader-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tiktok Downloader",
   "main": "index.js",
   "scripts": {
