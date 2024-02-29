@@ -1,6 +1,6 @@
 {
   "name": "tiktok-downloader-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tiktok Downloader",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fxthur/vtDownloader.git"
+    "url": "https://github.com/fxthur/vtDownloader"
   },
   "author": "fxthur",
   "license": "ISC",
